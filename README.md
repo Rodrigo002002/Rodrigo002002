@@ -4,6 +4,11 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo002002&layout=compact&locale=pt-br&theme=dracula" />
 </div>
 
+### Contato
+
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-da-maia-eberle-4b1b0a231/)
+[![GMAIL](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rodrigomaiaeberle@gmail.com)
+
 ### Tecnologias utilizadas
 
 [![VUE](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](#)
