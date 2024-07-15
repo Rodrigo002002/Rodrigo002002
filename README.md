@@ -1,8 +1,4 @@
 ## Olá, meu nome é Rodrigo da Maia, bem vindo ao meu perfil 😃 !! 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo002002&show_icons=true&theme=dracula&locale=pt-br&hide=issues" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo002002&layout=compact&locale=pt-br&theme=dracula" />
-</div>
 
 ### Contato
 
