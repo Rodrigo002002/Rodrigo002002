@@ -2,7 +2,7 @@
 
 ### Contato
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-eberle-4b1b0a231/)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoeberle/)
 [![GMAIL](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rodrigomaiaeberle@gmail.com)
 
 ### Tecnologias utilizadas
