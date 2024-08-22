@@ -1,4 +1,4 @@
-## Olá, meu nome é Rodrigo da Maia, bem vindo ao meu perfil 😃 !! 
+## Olá, meu nome é Rodrigo da Maia, bem vindo ao meu perfil !! 
 
 ### Contato
 
